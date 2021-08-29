@@ -1,0 +1,2 @@
+[2021-8-28 07:15:57] layer "globe   www.webexample.com": Unsupported extension: com
+[2021-8-28 07:15:57] layer "envelope   info@exampleweb.com": Unsupported extension: com
